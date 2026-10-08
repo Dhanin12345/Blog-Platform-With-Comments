@@ -156,3 +156,6 @@ docker-compose up --build
 - Frontend: `http://localhost:5173`
 - Backend API: `http://localhost:8000/api`
 - Django Admin: `http://localhost:8000/admin`
+
+<img width="786" height="485" alt="image" src="https://github.com/user-attachments/assets/a6c3fe67-1735-48fe-8945-8fd52e079605" />
+
